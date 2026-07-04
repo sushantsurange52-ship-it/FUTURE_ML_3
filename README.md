@@ -1,8 +1,8 @@
-# 🤖 AI Resume Screening & Candidate Ranking System
+# 🤖 Resume Screening & Candidate Ranking System
 
 ## 📌 Project Overview
 
-This project is an AI-powered Resume Screening & Candidate Ranking System developed as part of the Future Interns Machine Learning Internship.
+This project Resume Screening & Candidate Ranking System developed as part of the Future Interns Machine Learning Internship.
 
 The system automatically compares resumes with a job description using Natural Language Processing (NLP), calculates a similarity score, ranks candidates, extracts skills, and identifies missing skills.
 
